@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on Ayushe.com</title>
-    <link>http://localhost:1313/tags/code/</link>
+    <link>https://ayushenagpal.github.io/tags/code/</link>
     <description>Recent content in code on Ayushe.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ayushenagpal@gmail.com (Ayushe Nagpal)</managingEditor>
     <webMaster>ayushenagpal@gmail.com (Ayushe Nagpal)</webMaster>
-    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushenagpal.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Sample</title>
-      <link>http://localhost:1313/post/2016-03-08-code-sample/</link>
+      <link>https://ayushenagpal.github.io/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
-      <guid>http://localhost:1313/post/2016-03-08-code-sample/</guid>
+      <guid>https://ayushenagpal.github.io/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
