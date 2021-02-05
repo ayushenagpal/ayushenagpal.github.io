@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushenagpal.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Sample</title>
-      <link>https://ayushenagpal.github.io/post/2017-03-05-math-sample/</link>
+      <link>https://ayushenagpal.github.io/blog/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
-      <guid>https://ayushenagpal.github.io/post/2017-03-05-math-sample/</guid>
+      <guid>https://ayushenagpal.github.io/blog/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 &lt;p&gt;$$
 \phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots

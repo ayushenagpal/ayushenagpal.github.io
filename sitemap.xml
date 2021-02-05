@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>https://ayushenagpal.github.io/blog/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ayushenagpal.github.io/tags/example/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -19,12 +25,7 @@
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2017-03-20-photoswipe-gallery-sample/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushenagpal.github.io/post/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,7 +35,7 @@
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2017-03-07-bigimg-sample/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2017-03-07-bigimg-sample/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,7 +50,7 @@
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2017-03-05-math-sample/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2017-03-05-math-sample/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,12 +60,12 @@
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2016-03-08-code-sample/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2016-03-08-code-sample/</loc>
     <lastmod>2016-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-02-26-flake-it-till-you-make-it/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-02-26-flake-it-till-you-make-it/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,37 +75,45 @@
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-02-20-test-markdown/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-02-20-test-markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-02-13-hamlet-monologue/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-02-13-hamlet-monologue/</loc>
     <lastmod>2015-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-01-27-dear-diary/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-01-27-dear-diary/</loc>
     <lastmod>2015-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-01-19-soccer/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-01-19-soccer/</loc>
     <lastmod>2015-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-01-15-pirates/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-01-15-pirates/</loc>
     <lastmod>2015-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/post/2015-01-04-first-post/</loc>
+    <loc>https://ayushenagpal.github.io/blog/2015-01-04-first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ayushenagpal.github.io/page/about/</loc>
+    <loc>https://ayushenagpal.github.io/page/art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ayushenagpal.github.io/page/media/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ayushenagpal.github.io/page/projects/</loc>
   </url>
   
   <url>
