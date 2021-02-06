@@ -28,6 +28,30 @@
 &lt;p&gt;I adopted Dobby in the summer of 2010, when I found him at the edge of a lake while visiting Mississipi.&lt;/p&gt;</description>
     </item>
     
+<<<<<<< Updated upstream
+=======
+    <item>
+      <title>The Selfless and The Selfish</title>
+      <link>https://ayushenagpal.github.io/blog/2020-04-13-the-selfless/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
+      <guid>https://ayushenagpal.github.io/blog/2020-04-13-the-selfless/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ayushenagpal.github.io/images/selfless.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://ayushenagpal.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://ayushenagpal.github.io/images/selfless.jpg&#34; alt=&#34;/images/selfless.jpg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://ayushenagpal.github.io/images/selfless.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A crisis brings out the best and worst in people. Throughout this situation we have seen people self-sacrificing on the front lines and we have seen people ignorantly exposing themselves in the name of demanding their rights. One echoes of bravery and humanity at its best. The other is conceited and foolish.&lt;/p&gt;</description>
+    </item>
+    
+>>>>>>> Stashed changes
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://ayushenagpal.github.io/blog/2017-03-20-photoswipe-gallery-sample/</link>
@@ -187,7 +211,12 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
       <guid>https://ayushenagpal.github.io/page/art/</guid>
+<<<<<<< Updated upstream
       <description>Here lies my art </description>
+=======
+      <description>Here lies my art hi this is ppl
+ title hi this is ppl</description>
+>>>>>>> Stashed changes
     </item>
     
     <item>
