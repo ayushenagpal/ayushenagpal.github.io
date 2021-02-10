@@ -13,12 +13,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
       <guid>https://ayushenagpal.github.io/page/art/</guid>
-<<<<<<< Updated upstream
-      <description>Here lies my art </description>
-=======
-      <description>Here lies my art hi this is ppl
- title hi this is ppl</description>
->>>>>>> Stashed changes
+      <description>Here lies my art  April 19th 2020 - Too Many Locks, Not Enough Keys
+ April 6th 2020 - In a World of Darkness
+ April 3rd 2020 - Untethered
+ March 28th 2020
+       Untethered
+    </description>
     </item>
     
     <item>
@@ -31,12 +31,30 @@
     </item>
     
     <item>
+      <title>CS Projects</title>
+      <link>https://ayushenagpal.github.io/page/csprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
+      <guid>https://ayushenagpal.github.io/page/csprojects/</guid>
+      <description>Internships </description>
+    </item>
+    
+    <item>
+      <title>Misc Projects</title>
+      <link>https://ayushenagpal.github.io/page/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
+      <guid>https://ayushenagpal.github.io/page/misc/</guid>
+      <description>Internships </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://ayushenagpal.github.io/page/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ayushenagpal@gmail.com (Ayushe Nagpal)</author>
       <guid>https://ayushenagpal.github.io/page/projects/</guid>
-      <description>Here lie my projects </description>
+      <description>CS Projects Other Pojects </description>
     </item>
     
   </channel>
